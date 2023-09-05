@@ -223,6 +223,15 @@ header .navbar a:hover{
     margin: 15px;
 }
 
+.about .content img{
+    border-radius: 50%;
+}
+.about .content img:hover{
+    height: 50px;
+    width: 50px;
+}
+
+
 .about .row .content .box-container .box p span{
     color:var(--green);
 }
