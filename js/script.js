@@ -12,7 +12,7 @@ window.onscroll = () =>{
 };
 
 var typed = new Typed('.typing-text', {
-    strings : ['Developer', 'Programmer', 'Leaner', 'Teacher'],
+    strings : ['Frontend Developer', 'Programmer', 'Learner', 'Teacher'],
     loop : true,
     typeSpeed : 200
 });
