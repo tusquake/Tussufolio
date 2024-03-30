@@ -393,12 +393,26 @@ header .navbar a:hover{
 }
 
 .contact .row form textarea{
-    height:20rem;
+    height:18rem;
     resize: none;
 }
 
 .contact .row form .btn{
     margin:.5rem 0;
+}
+.inp{
+    width:100%;
+    border-radius: .5rem;
+    font-size: 1.7rem;
+    color:#333;
+    padding:1rem;
+    margin:1rem 0;
+    border:.1rem solid rgba(0,0,0,.1);
+    text-transform: none;
+}
+
+.inp:focus{
+    border: 2px solid var(--green);
 }
 
 .footer{
